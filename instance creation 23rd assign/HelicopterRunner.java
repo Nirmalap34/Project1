@@ -1,0 +1,78 @@
+class HelicopterRunner{
+ public static void main(String[] args){
+ System.out.println("start main in helicopterrunner");
+ Helicopter ref=new Helicopter();
+ Helicopter ref1=new Helicopter();
+ Helicopter ref2=new Helicopter();
+ Helicopter ref3=new Helicopter();
+ Helicopter ref4=new Helicopter();
+ Market price=new Market();
+ Market price1=new Market();
+ Market price2=new Market();
+ Market price3=new Market();
+ Market price4=new Market();
+ Mall purchase=new Mall();
+ Mall purchase1=new Mall();
+ Mall purchase2=new Mall();
+ Mall purchase3=new Mall();
+ Mall purchase4=new Mall();
+ Ring size=new Ring();
+ Ring size1=new Ring();
+ Ring size2=new Ring();
+ Ring size3=new Ring();
+ Ring size4=new Ring();
+ Auto charge=new Auto();
+ Auto charge1=new Auto();
+ Auto charge2=new Auto();
+ Auto charge3=new Auto();
+ Auto charge4=new Auto();
+ Auditorium func=new Auditorium();
+ Auditorium func1=new Auditorium();
+ Auditorium func2=new Auditorium();
+ Auditorium func3=new Auditorium();
+ Auditorium func4=new Auditorium();
+ Spaceship img=new Spaceship();
+ Spaceship img1=new Spaceship();
+ Spaceship img2=new Spaceship();
+ Spaceship img3=new Spaceship();
+ Spaceship img4=new Spaceship();
+ Alien1 alien=new Alien1();
+ Alien1 alien1=new Alien1();
+ Alien1 alien2=new Alien1();
+ Alien1 alien3=new Alien1();
+ Alien1 alien4=new Alien1();
+ Bullet bullet=new Bullet(); 
+ Bullet bullet1=new Bullet(); 
+ Bullet bullet2=new Bullet(); 
+ Bullet bullet3=new Bullet(); 
+ Bullet bullet4=new Bullet();
+ Galaxy picture=new Galaxy();
+ Galaxy picture1=new Galaxy();
+ Galaxy picture2=new Galaxy();
+ Galaxy picture3=new Galaxy();
+ Galaxy picture4=new Galaxy();
+ Spoon s=new Spoon();
+ Spoon s1=new Spoon();
+ Spoon s2=new Spoon();
+ Spoon s3=new Spoon();
+ Spoon s4=new Spoon();
+ BlackHole type=new BlackHole();
+ BlackHole type1=new BlackHole();
+ BlackHole type2=new BlackHole();
+ BlackHole type3=new BlackHole();
+ BlackHole type4=new BlackHole();
+ Cake cake=new Cake();
+ Cake cake1=new Cake();
+ Cake cake2=new Cake();
+ Cake cake3=new Cake();
+ Cake cake4=new Cake();
+ Wrapper wrap=new Wrapper();
+ Wrapper wrap1=new Wrapper();
+ Wrapper wrap2=new Wrapper();
+ Wrapper wrap3=new Wrapper();
+ Wrapper wrap4=new Wrapper();
+ System.out.println("end main in helicopterrunner");
+ 
+ }
+
+}
